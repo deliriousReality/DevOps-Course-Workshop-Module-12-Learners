@@ -98,66 +98,6 @@
         "useVAManagedIdentity": {
             "value": false
         },
-        "enablePrivateEndpoint": {
-            "value": false
-        },
-        "privateEndpointNestedTemplateId": {
-            "value": "pe-c8ea9ba9-1552-4065-9441-138e3fdbe012"
-        },
-        "privateEndpointSubscriptionId": {
-            "value": ""
-        },
-        "privateEndpointResourceGroup": {
-            "value": ""
-        },
-        "privateEndpointName": {
-            "value": ""
-        },
-        "privateEndpointLocation": {
-            "value": ""
-        },
-        "privateEndpointSubnetId": {
-            "value": ""
-        },
-        "privateLinkServiceName": {
-            "value": ""
-        },
-        "privateLinkServiceServiceId": {
-            "value": ""
-        },
-        "privateEndpointVnetSubscriptionId": {
-            "value": ""
-        },
-        "privateEndpointVnetResourceGroup": {
-            "value": ""
-        },
-        "privateEndpointVnetName": {
-            "value": ""
-        },
-        "privateEndpointSubnetName": {
-            "value": ""
-        },
-        "enablePrivateDnsZone": {
-            "value": true
-        },
-        "privateLinkPrivateDnsZoneFQDN": {
-            "value": "privatelink.database.windows.net"
-        },
-        "privateEndpointDnsRecordUniqueId": {
-            "value": "c8ea9ba9-1552-4065-9441-138e3fdbe015"
-        },
-        "privateEndpointTemplateLink": {
-            "value": "https://sqlazureextension.hosting.portal.azure.net/sqlazureextension/Content/2.1.01860210/DeploymentTemplates/PrivateEndpoint.json"
-        },
-        "privateDnsForPrivateEndpointTemplateLink": {
-            "value": "https://sqlazureextension.hosting.portal.azure.net/sqlazureextension/Content/2.1.01860210/DeploymentTemplates/PrivateDnsForPrivateEndpoint.json"
-        },
-        "privateDnsForPrivateEndpointNicTemplateLink": {
-            "value": "https://sqlazureextension.hosting.portal.azure.net/sqlazureextension/Content/2.1.01860210/DeploymentTemplates/PrivateDnsForPrivateEndpointNic.json"
-        },
-        "privateDnsForPrivateEndpointIpConfigTemplateLink": {
-            "value": "https://sqlazureextension.hosting.portal.azure.net/sqlazureextension/Content/2.1.01860210/DeploymentTemplates/PrivateDnsForPrivateEndpointIpConfig.json"
-        },
         "clientIpRuleName": {
             "value": "ClientIp-2022-2-23_11-5-7"
         },
